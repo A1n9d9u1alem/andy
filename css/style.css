@@ -1,0 +1,19 @@
+/* Basic styles for the webpage */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #cb1d1d;
+}
+
+h1 {
+    color: #e09696;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #333;
+    scroll-timeline-axis: 7;
+}
+h1{
+    background-color: blue;
+}
